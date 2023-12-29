@@ -9,9 +9,7 @@ Hans Rosling built this animation, after testing his students on global health, 
 ## Background 
 The visualisations will be modelled after the `Gapminder` visualisations, a non-profit founded by Hans Rosling along with his son and daughter-in-law that aims to make data accessible to drive positive change. <br> 
 - While dealing with visualisations of indicators such as population, life expectancy and fertility rate, we peek into the social, economical and political driving forces that contributed to the numbers. 
-<br>
 - For example, across the various visualisations, we see the Sub-Saharan region lagging behind. This is a testament to the post-colonial and modern imperial forces that still operate in the continent.
-<br> 
 - A solid example is the HIV epidemic that halted and reversed the growth of the region. While life saving drugs were available, they were too expensive to be used even by the top earning portion of the population. Monopolistic practises in healthcare by the big pharma, backed by favourable intellectual property regulations affected the lives of millions of Africans for decades. More on this subject is covered in the documentary [Fire In the Blood](https://www.youtube.com/watch?v=uMsseS_Lqs0&t=1s).
 - Similarly, in another example, China's rapid decline in fertility rate can be attributed to their adoption of the one child policy.
 <br> 
