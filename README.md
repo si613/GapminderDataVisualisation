@@ -33,15 +33,13 @@ In the data preprocessing notebook file, the four datasets were explored individ
 <br>
 The detailed procedure is illustrated in the Jupyter Notebook files.
 ## Data Visualisations
-
+Detailed observations of the visualisations are illustrated in the visualisation notebook.
 1. Regional data is analysed to count the countries in each region.
 2. Population trend over time was charted through line, area and bar graphs.
 3. Fertility rate distribution was analysed, and its shift over time was noted.
 4. The variance in life expectancy was charted across different income groups and regions.
 5. Pairplot analysis was conducted for the numerical variables.
 6. Gapminder visualisations inspired the population bubble chart of life expectancy and fertility rate. 
-
-Detailed observations of the visualisations are illustrated in the visualisation notebook.
 <br>
 **NOTE:** The visualisations made using Plotly Express are not visible in the GitHub preview. A PDF with all the visualisations is also attached for ease of viewing. Snapshots of the animated visuals are added.
 
