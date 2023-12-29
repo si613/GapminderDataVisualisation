@@ -41,7 +41,9 @@ Detailed observations of the visualisations are illustrated in the visualisation
 5. Pairplot analysis was conducted for the numerical variables.
 6. Gapminder visualisations inspired the population bubble chart of life expectancy and fertility rate. 
 <br>
-**NOTE:** The visualisations made using Plotly Express are not visible in the GitHub preview. A PDF with all the visualisations is also attached for ease of viewing. Snapshots of the animated visuals are added.
+
+**NOTE:**
+The visualisations made using Plotly Express are not visible in the GitHub preview. A PDF with all the visualisations is also attached for ease of viewing. Snapshots of the animated visuals are added.
 
 ## Challenges
 The major challenge during this project was figuring out the steps involved in data preprocessing that can convert and combine the data into usable format for compelling visualisations. This hurdle was overcome by the `pd.melt()` function which helped unpivot the dataframes, after which merge and visualisations were conducted smoothly. 
